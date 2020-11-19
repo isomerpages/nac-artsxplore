@@ -4,11 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Here's a notification bar you can use! OPEN CALL FOR APPLICATIONS CLOSING XX DEC. SIGN UP IN THE LINK BELOW.
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: ARTSXPLORE
+        subtitle: Arts incubator for youths across multiple disciplines and interests (boilerplate)
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
@@ -23,9 +23,9 @@ sections:
               description: Page A is important too
               url: /privacy/
     - infobar:
-        title: Infobar title
+        title: The Team
         subtitle: Subtitle
-        description: About a sentence worth of description here
+        description: (Acknowledgments - NAC, NYC, S&L)
         button: Button text
         url: /faq/
 ---
