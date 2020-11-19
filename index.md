@@ -10,7 +10,7 @@ sections:
         title: ARTSXPLORE
         subtitle: Arts incubator for youths across multiple disciplines and interests (boilerplate)
         background: /images/hero-banner.png
-        button: Contact Us
+        button: Link to external page
         url: /contact-us/
         key_highlights:
             - title: Highlight A
