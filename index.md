@@ -9,7 +9,7 @@ sections:
     - hero:
         title: ArtsXplore
         subtitle: A virtual incubation for youths to experiment, explore and collaborate across different art forms in response to the issues they care about
-        background: /images/background_1920x720-02.jpg
+        background: /images/background_1920x720-03.jpg
         button: Find out more here
         url: www.artsxplore.sg
        
