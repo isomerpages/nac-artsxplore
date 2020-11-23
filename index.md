@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: ArtsXplore
 description: Brief site description here
 image: /images/logo_ArtsXplore_.png
 permalink: /
