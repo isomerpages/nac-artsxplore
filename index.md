@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/logo_ArtsXplore_.png
 permalink: /
-notification: OPEN CALL FOR APPLICATIONS CLOSING XX DEC. 
+notification: OPEN CALL FOR APPLICATIONS CLOSING 20 DEC 2020. 
 sections:
     - hero:
         title: ArtsXplore
@@ -16,8 +16,7 @@ sections:
     - infobar:
         title: The Team
         subtitle: Organisers & Producer
-        description: The pilot season of ArtsXplore is jointly organised by the National Arts Council and the National Youth Council, and programmed by Spang & Lei.
-        button: National Arts Council
+        description: ArtsXplore is a joint initiative by National Arts Council and National Youth Council. This first season is organised by Spang & Lei.
         image: /images/logo_ArtsXplore_.png
         url: "http://nac.gov.sg/"
         button: National Youth Council
