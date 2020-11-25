@@ -11,7 +11,7 @@ sections:
         subtitle: A virtual incubation for youths to experiment, explore and collaborate across different art forms in response to the issues they care about
         background: /images/background_1920x720-03.jpg
         button: Find out more here today!
-        url: https://www.artsxplore.sg
+        url: "https://www.artsxplore.sg"
        
     - infobar:
         title: The Team
