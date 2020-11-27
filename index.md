@@ -4,7 +4,7 @@ title: ArtsXplore
 description: A virtual incubation for youths to experiment, explore and collaborate across different art forms responding to the issues they care about
 image: /images/logo_ArtsXplore_.png
 permalink: /
-notification: Calling all youths: register in the link below before 20 December 2020!
+notification: "Calling all youths: register in the link below before 20 December 2020!"
 sections:
     - hero:
         title: ArtsXplore
