@@ -15,7 +15,6 @@ sections:
        
     - infobar:
         title: The Team
-        subtitle: Organisers & Producer
         description: ArtsXplore is a joint initiative by National Arts Council and National Youth Council. This first season is organised by Spang & Lei.
         image: /images/logo_ArtsXplore_.png
         
